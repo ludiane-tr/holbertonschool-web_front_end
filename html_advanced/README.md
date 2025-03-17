@@ -7,20 +7,9 @@ The **HTML Advanced** project is designed to teach you how to structure a webpag
 By completing this project, you will gain a solid foundation in HTML, learn best practices for structuring content, and understand the importance of semantic HTML.
 
 **Important Note:** Attention to detail is crucial! Be mindful of lowercase vs. uppercase letters, syntax errors, and missing attributes.
-
 ---
 
-## Resources
-
-To help you complete this project, refer to the following resources:
-
-- [HTML 5.2](https://www.w3.org/TR/html52/)
-- [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
-- [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-- [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html-cheat-sheet/)
-
----
+Techium  is the company
 
 ## Learning Objectives
 
